@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I'm currently working on Poseidon.<br>🔭 I'm currently learning Go & the T3 stack!<br>💭 Ask me about my dog 🐕 & daughter 👶
+⚒️ Proudly building with Enterprise Platforms and architecture.<br>🔭 I engineer fun with Go and a soldering iron in my free time.<br>💭 Ask me about my dog 🐕 & daughter 👶
 
 
 ## 🌐 Socials:
